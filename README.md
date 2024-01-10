@@ -1,2 +1,2 @@
-# Collaboration Classword
+# Collaboration Classwork
 This is a Readme. Wassup?
